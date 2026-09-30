@@ -20,9 +20,9 @@ I aim to integrate civil infrastructure design with the development of computati
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge)
 
-### 🚀 What I'm currently working on
-- 🎓 Assisting students with circuit design and development as a Teaching Assistant in **Digital Electronics II**.
-- 🏗️ Performing planimetry and low-voltage electrical surveys for **GLS Ingeniería**.
+###What I'm currently working on
+- Assisting students with circuit design and development as a Teaching Assistant in **Digital Electronics II**.
+- Performing planimetry and low-voltage electrical surveys for **GLS Ingeniería**.
 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqandres/)
