@@ -23,6 +23,6 @@ I aim to integrate civil infrastructure design with the development of computati
 - 🏗️ Performing planimetry and low-voltage electrical surveys for **GLS Ingeniería**.
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqandres/)# Hi! I'm Andrés Alvarez Quiñones 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqandres/)
 
 
