@@ -7,6 +7,7 @@ I aim to integrate civil infrastructure design with the development of computati
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Low-Level:**
+
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -15,6 +16,7 @@ I aim to integrate civil infrastructure design with the development of computati
 ![Assembler](https://img.shields.io/badge/Assembler-grey?style=for-the-badge)
 
 **Engineering & Design:**
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge)
 
